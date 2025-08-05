@@ -227,7 +227,8 @@ $GPRMC,123456.00,A,3747.1654,N,12202.4490,W,0.5,45.0,010120,,
 
 ## License
 
-This project is provided as-is for educational and research purposes.
+## License
+This project is for individual use only, not commercial use. See the [`LICENSE.md`](LICENSE.md) file for details.
 
 ## Contributing
 
@@ -238,4 +239,5 @@ Feel free to submit issues, feature requests, or pull requests to improve the pr
 - Based on esp32-motion project by thomas-pegot
 - Uses ESP32-CAM library for camera functionality
 - Implements Lucas-Kanade optical flow algorithm
+
 - Extended Kalman Filter implementation for sensor fusion 
