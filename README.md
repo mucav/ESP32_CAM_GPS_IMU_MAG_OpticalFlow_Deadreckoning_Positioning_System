@@ -2,6 +2,8 @@
 
 A complete Arduino project for an ESP32-CAM based positioning system with sensor fusion, optical flow, and GPS jamming detection.
 
+******There are currently some issues and it is not working efficiently. There is a DMA Overflow error.*****
+
 ## Hardware Requirements
 
 - **ESP32-CAM (AI Thinker)** - Main microcontroller with camera
@@ -241,3 +243,4 @@ Feel free to submit issues, feature requests, or pull requests to improve the pr
 - Implements Lucas-Kanade optical flow algorithm
 
 - Extended Kalman Filter implementation for sensor fusion 
+
